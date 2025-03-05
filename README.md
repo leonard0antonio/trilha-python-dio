@@ -1,4 +1,3 @@
-Aqui está um `README.md` para o seu repositório **Trilha Python DIO**:  
 
 ```markdown
 # 🐍 Trilha Python - DIO  
