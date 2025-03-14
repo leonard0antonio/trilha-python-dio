@@ -2,7 +2,7 @@
 ```markdown
 # 🐍 Trilha Python - DIO  
 
-Este repositório contém exercícios e projetos desenvolvidos durante a **Trilha Python** da Digital Innovation One (DIO). O objetivo é consolidar conceitos fundamentais da linguagem Python, aplicando boas práticas de programação.
+Este repositório contém exercícios e projetos desenvolvidos durante a **bootcamp Suzano - Python Devoleper** da Digital Innovation One (DIO). O objetivo é consolidar conceitos fundamentais da linguagem Python, aplicando boas práticas de programação.
 
 ---
 
@@ -40,14 +40,6 @@ git clone https://github.com/DevLeoCraft/trilha-python-dio.git
 cd trilha-python-dio
 python nome_do_script.py
 ```
-
----
-
-## 📚 Melhorias Futuras  
-
-🔹 Criar uma interface gráfica para os projetos  
-🔹 Adicionar testes automatizados  
-🔹 Integrar banco de dados  
 
 ---
 
